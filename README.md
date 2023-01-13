@@ -25,7 +25,8 @@ Fique a vontade para ver meus projetos.
 <div align="center">
   <a href="https://github.com/doodohrafael">
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doodohrafael&show_icons=true&theme=radical)"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doodohrafael&include_all_commits=true&theme=radical&bg_color)"/>
+    
 </div>
 
 
