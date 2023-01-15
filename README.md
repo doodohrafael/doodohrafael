@@ -21,14 +21,14 @@ Meu perfil profissional do LinkedIn: <br/>
 <a href="https://www.linkedin.com/in/douglas-rafael-867822a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 Fique a vontade para ver meus projetos.
-
+<!--
 <div align="center">
   <a href="https://github.com/doodohrafael">
     
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doodohrafael&include_all_commits=true&theme=radical&bg_color)"/>
     
 </div>
-
+-->
 
 <div> 
   <br />
