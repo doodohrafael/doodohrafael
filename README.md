@@ -10,8 +10,7 @@
 </div>
 <br/><br/>
 Dev Backend Java | Spring | JPA | JSF | MYSQL | Hibernate | Primefaces <br/>
-- Cursando Especialista Spring Rest na Algaworks <br/>
-- Graduando em Sistemas de informação na Uninassau <br/>
+- Bacharel em Sistemas de informação na Uninassau <br/>
 
 Todos os dias aprendendo algo a mais, visando crescer profissionalmente e sempre acompanhar e inovar no mercado.
 Meu objetivo principal é buscar ser uma versão melhor de mim todos os dias. Buscar aprendizado é algo contínuo para toda a vida.
