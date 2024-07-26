@@ -5,9 +5,11 @@
   <img align="center" alt="rafael-SPRING" height="70" width="100" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg">
   <img align="center" alt="rafael-JPA-HIBERNATE" height="70" width="80" src="https://design.jboss.org/hibernate/logo/final/hibernate_logo_whitebkg_stacked_256px.png">
   <img align="center" alt="rafael-ANGULAR" height="70" width="280" src="https://brandslogos.com/wp-content/uploads/images/large/angular-logo-1.png">
+  <img align="center" alt="rafael-POSTGRESQL" height="70" width="80" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png">
+  
   <img align="center" alt="rafael-JSF" height="70" width="80" src="https://www.ambient-it.net/wp-content/uploads/2016/04/jsf-logo-175.png">
   <img align="center" alt="rafael-MYSQL" height="70" width="100" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
-  <img align="center" alt="rafael-PRIMFACES" height="70" width="160" src="https://i1.wp.com/www.primefaces.org/wp-content/uploads/2021/10/primefaces-logo.png?fit=1368%2C320&ssl=1">
+  <img align="center" alt="rafael-PRIMFACES" height="70" width="250" src="https://i1.wp.com/www.primefaces.org/wp-content/uploads/2021/10/primefaces-logo.png?fit=1368%2C320&ssl=1">
 </div>
 
 <br/>
