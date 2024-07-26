@@ -23,7 +23,7 @@
     
 <br/>
 
-Dev Backend Java | Spring | JPA | JSF | MYSQL | Hibernate | Primefaces <br/>
+Dev Full Stack | Java | Spring | Angular | JPA | Rest APIs | JSF | MySQL - Bacharel em Sistemas de Informação <br/>
 - Bacharel em Sistemas de informação na Uninassau <br/>
 
 Todos os dias aprendendo algo, visando crescer profissionalmente e sempre acompanhar e inovar no mercado.
