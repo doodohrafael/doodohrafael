@@ -1,6 +1,6 @@
 # Olá, eu sou o Douglas Rafael 👋
 
-### Full Stack Developer | Java Specialist | AI Enthusiast
+### Full Stack Developer becoming an architect | AI Enthusiast
 
 Sou um desenvolvedor Full Stack apaixonado por construir soluções escaláveis inteligentes. Atualmente, foco meu esta em **Arquiteturas**, **Cloud Computing** e a integração de **Agentes de IA** em aplicações reais.
 
