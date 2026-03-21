@@ -1,38 +1,63 @@
-# Seja muito bem vindo!
-### Olá 👋, me chamo Rafael e aqui compartilho meus projetos pessoais.
-<div style="display: inline_block"><br>
-  <img align="center" alt="rafael-JAVA" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="rafael-SPRING" height="70" width="100" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg">
-  <img align="center" alt="rafael-JPA-HIBERNATE" height="70" width="80" src="https://design.jboss.org/hibernate/logo/final/hibernate_logo_whitebkg_stacked_256px.png">
-  <img align="center" alt="rafael-POSTGRESQL" height="70" width="80" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png">
-  <img align="center" alt="rafael-ANGULAR" height="70" width="280" src="https://brandslogos.com/wp-content/uploads/images/large/angular-logo-1.png">
-  
-  
-  <img align="center" alt="rafael-JSF" height="70" width="80" src="https://www.ambient-it.net/wp-content/uploads/2016/04/jsf-logo-175.png">
-  <img align="center" alt="rafael-MYSQL" height="70" width="100" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
-  <img align="center" alt="rafael-PRIMFACES" height="70" width="250" src="https://i1.wp.com/www.primefaces.org/wp-content/uploads/2021/10/primefaces-logo.png?fit=1368%2C320&ssl=1">
+# Olá, eu sou o Douglas Rafael 👋
+
+### Full Stack Developer | Java Specialist | AI Enthusiast
+
+Sou um desenvolvedor Full Stack apaixonado por construir soluções escaláveis inteligentes. Atualmente, foco meu esta em **Arquiteturas**, **Cloud Computing** e a integração de **Agentes de IA** em aplicações reais.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+**Back-end & Database**
+<div style="display: inline_block">
+  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Hibernate" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg">
+  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 </div>
 
-<br/>
+**Front-end & Mobile**
+<div style="display: inline_block">
+  <img align="center" alt="Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Android" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+</div>
 
-<div>
-  <a href="https://github.com/rafaballerini">
+**AI & Cloud**
+<div style="display: inline_block">
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="GCloud" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+</div>
+
+---
+
+### 🚀 O que estou fazendo agora?
+- 🤖 Desenvolvendo **Agentes de IA** personalizados com Agno (Phidata) e Ollama.
+- ☕ Aprimorando projetos com **Spring AI** e integração de LLMs.
+- ☁️ Explorando deploy e escalabilidade em ambientes **AWS** e **Google Cloud**.
+- 🎓 Bacharel em Sistemas de Informação.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doodohrafael&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doodohrafael&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-    
-<br/>
 
-Dev Full Stack | Java | Spring | Angular | JPA | Rest APIs | JSF | MySQL - Bacharel em Sistemas de Informação <br/>
-- Bacharel em Sistemas de informação na Uninassau <br/>
+---
 
-Todos os dias aprendendo algo, visando crescer profissionalmente e sempre acompanhar e inovar no mercado.
-Busco ser uma versão melhor. Buscar aprendizado é algo contínuo para toda a vida.
-<br/>
-<br/>
-Meu perfil profissional do LinkedIn: <br/>
-<a href="https://www.linkedin.com/in/douglas-rafael-867822a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+### 📫 Vamos nos conectar?
 
-Fique a vontade para ver meus projetos.
+<a href="https://www.linkedin.com/in/douglas-rafael-867822a0/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:seu-email@exemplo.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-
+*"A busca pelo aprendizado é contínua e a inovação é o que nos move."*
