@@ -23,7 +23,7 @@ Sou um desenvolvedor Full Stack apaixonado por construir soluções escaláveis 
 - 🤖 Desenvolvendo **Agentes de IA** personalizados com Agno (Phidata) e Ollama.
 - ☕ Aprimorando projetos com **Spring AI** e integração de LLMs.
 - ☁️ Explorando deploy e escalabilidade em ambientes **AWS** e **Google Cloud**.
-- 🎓 Bacharel em Sistemas de Informação.
+- 🎓 Graduado em Sistemas de Informação.
 
 ---
 
